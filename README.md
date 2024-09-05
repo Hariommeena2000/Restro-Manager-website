@@ -26,7 +26,6 @@ In the **Contact** section, you can reach out to us directly. A form is provided
 - HTML5
 - CSS3
 - JavaScript
-- [Additional frameworks, libraries, etc.]
 
 ## Installation
 
