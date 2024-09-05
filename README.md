@@ -1,4 +1,4 @@
-# Restaurant Website
+# Restro Manager Website
 
 Welcome to our restaurant's official website. This site provides comprehensive information about our restaurant, its offerings, and the people behind the scenes. Explore various sections to get to know us better.
 
